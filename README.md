@@ -20,3 +20,4 @@ pip3 install -r requirements.txt
 python3 python-asl-scrape.py
 # If this doesn't run at all, verify you're in the right directory. Might need to "cd ~/Download/ASL-interpreter-automated-scrape" first?
 ```
+7. Then wait until Google Chrome launches another window controlled by automated software, watch it do it's thing, and when it's all done, you should have a `output.csv` file completely filled out and completed in your local directory.
