@@ -3,6 +3,17 @@ Automated way to scrape the RID (Registry of Interpreters for the Deaf) in order
 
 Posted this also to show how one can easily make a single-file automated script. Took me ~2 hours to write the whole thing and following this format and using these packages, you'll see it's easy to do.
 
+## Demo Video
+https://github.com/user-attachments/assets/70340d60-726d-46b3-b3c0-3470f5e877a8
+
+## Screenshots of Output
+**Raw CSV**
+<img width="1680" alt="Ex  Screenshot of raw CSV file " src="https://github.com/user-attachments/assets/eef1be21-8975-4564-a97d-a37c974aaed8" />
+
+**CSV Open in Excel**
+<img width="1403" alt="Ex  Screenshot of CSV file open in Excel" src="https://github.com/user-attachments/assets/9adebe61-7009-41cf-ba2b-0cc29f1c65f9" />
+
+
 ## To Run
 Assuming you have python3 already installed, do the following:
 1. Download latest version of [Visual Studio Code](https://code.visualstudio.com/) (for maximum ease).
